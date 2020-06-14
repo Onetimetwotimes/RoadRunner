@@ -1,4 +1,2 @@
 # RoadRunner
-A minecraft mod that allows players to define any Block as a Road Block with a Movement Speed Modifier. 
-As this is my first minecraft mod and my first project in a long time, feel free to suggest changes and fixes. 
-All help is appreciated.
+A fork of the mod Roadrunner by Threthca. Includes performance improvements from thiakil and will support an arbitrary number of road blocks.
